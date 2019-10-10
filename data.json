@@ -1,0 +1,32 @@
+{
+  "webpack": {
+    "version": "4.41.0",
+    "startServer": {
+      "firstTime": "11211ms",
+      "secondTime": "5074ms",
+      "jsSize": "1.65 MiB",
+      "htmlSize": "378 bytes"
+    },
+    "build": {
+      "firstTime": "14430ms",
+      "secondTime": "5454ms",
+      "jsSize": "179 Kib",
+      "htmlSize": "385 bytes"
+    }
+  },
+  "parceljs": {
+    "version": "1.12.4",
+    "startServer": {
+      "firstTime": "22.21s",
+      "secondTime": "3.72s",
+      "jsSize": "1.32 MB",
+      "htmlSize": "327 bytes"
+    },
+    "build": {
+      "firstTime": "22.51s",
+      "secondTime": "906ms",
+      "jsSize": "194.56 KB",
+      "htmlSize": "294 B"
+    }
+  }
+}
